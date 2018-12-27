@@ -2,10 +2,6 @@
 Starter Code for Auth&amp;Auth course
 # Installing the Vagrant VM for ud330 - Authentication & Authorization
 
-**Note: If you already have a vagrant machine installed from previous Udacity courses skip to the 'Fetch the Source Code and VM Configuration' section**
-
-In Lessons 2,3 and 4 of this course, you'll use a virtual machine (VM) to run a web server and a web app that uses it. The VM is a Linux system that runs on top of your own machine.  You can share files easily between your computer and the VM.
-
 We're using the Vagrant software to configure and manage the VM. Here are the tools you'll need to install to get it running:
 
 ### Git
@@ -15,7 +11,7 @@ If you don't already have Git installed, [download Git from git-scm.com.](http:/
 On Windows, Git will provide you with a Unix-style terminal and shell (Git Bash).  
 (On Mac or Linux systems you can use the regular terminal program.)
 
-You will need Git to install the configuration for the VM. If you'd like to learn more about Git, [take a look at our course about Git and Github](http://www.udacity.com/course/ud775).
+You will need Git to install the configuration for the VM. If you'd like to learn more about Git, [take a look at Udacity course about Git and Github](http://www.udacity.com/course/ud775).
 
 ### VirtualBox
 
